@@ -1,9 +1,4 @@
-# CODSOFT UI/UX Internship
-
-## Intern Details
-
-Name: Sneha Tiwari
-
+# UI/UX Design
 ## Tools Used
 
 * Figma
@@ -56,6 +51,4 @@ Designed a restaurant menu interface featuring:
 
 https://www.figma.com/design/BuROmkRV1RKX7UizvAOBiH/Untitled?node-id=10-38
 
-## Submitted For
 
-CodSoft UI/UX Design Internship
